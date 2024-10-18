@@ -14,7 +14,7 @@ DQN is a value-based RL algorithm that uses deep neural networks to approximate 
 ### 2. **DCQN (Double DQN)**  
 Double DQN builds on DQN by addressing the overestimation bias of Q-values. It uses two networks to decouple action selection from Q-value estimation, leading to better stability and performance.
 
-**[Video: Model Playing Game](DCQN/game_video.mp4)**
+**[Video: Model Playing Game](DCQN/DCQN.mp4)**
 
 ---
 
